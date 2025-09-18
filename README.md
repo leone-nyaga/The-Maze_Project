@@ -10,7 +10,7 @@ You have a link to a very good and very long tutorial about raycasting in the Ti
 
 Please have a lot of fun doing this project !
 
-![first gif]()
+![first gif](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/primegif.gif)
 
 ## Requirements
 
@@ -33,7 +33,7 @@ Please have a lot of fun doing this project !
 
 ## Tips and links
 
-+ [SDL2 - Get started.pdf]()
++ [SDL2 - Get started.pdf](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/sdl2gettingstarted.pdf)
 + [SDL2 tutorials](https://lazyfoo.net/tutorials/SDL/index.php)
 + Be careful with tutorials/help online: We are using SDL2, and not SDL-1.2 !
 + [RAYCASTING !!!](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents)
@@ -59,7 +59,7 @@ In this first part, you’ll have to:
 
 Example:
 
-![walls]()
+![walls](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/walls.png)
 
 In the following image, the camera is the red square, and the visible area is painted in green:
 
@@ -71,7 +71,7 @@ In this part, you must draw a different color depending on the orientation of th
 
 Example:
 
-![orietation]()
+![orietation](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/orientation.png)
 
 2. Rotation
 
@@ -82,7 +82,7 @@ You must provide a way to rotate the camera during the execution.
 
 Example:
 
-![rotation]()
+![rotation](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/rotation.gif)
 
 3. Move
 You must provide a way to move the camera during the execution.
@@ -91,9 +91,9 @@ You must provide a way to move the camera during the execution.
 
 Example:
 
-![movement 1]()
+![movement 1](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/movement1.gif)
 
-![movement 2]()
+![movement 2](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/movement2.gif)
 
 4. Ouch !
 
@@ -133,7 +133,7 @@ In this part you have to add textures on your walls !
 
 Example
 
-![texture]()
+![texture](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/texture.png)
 
 9. Multi task !
 
@@ -151,9 +151,9 @@ In this part you have to add textures on the ground and/or on the ceiling !
 
 Example
 
-![ground texture]()
+![ground texture](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/groundtexture.png)
 
-![ground texture gif]()
+![ground texture gif](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/groundtexturegif.gif)
 
 11. Weapons
 
@@ -161,7 +161,7 @@ Add weapons textures !
 
 Example
 
-![weapons]()
+![weapons](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/weapons.gif)
 
 12. Enemies
 
@@ -169,7 +169,7 @@ Add some enemies !
 
 Example from the game Wolfenstein 3D:
 
-![enemies]()
+![enemies](https://github.com/leone-nyaga/The-Maze_Project/blob/master/images/enemies.jpg)
 
 13. Make it rain
 
